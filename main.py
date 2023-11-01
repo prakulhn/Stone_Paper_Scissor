@@ -1,5 +1,5 @@
 import random
-print("Welcome to Rock - Paper Scissor")
+print("Welcome to Rock Paper Scissor")
 print("Let's begin the game")
 user_choice = int(input("Enter your choice: \n0 for Rock \n1 for Paper \n2 for Scissor \n")) 
 computer_choice = random.randint(0, 2)
